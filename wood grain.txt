@@ -1,0 +1,4 @@
+TL-light straight grain
+TR-light end grain
+BL-dark straight grain
+BR- dark end grain
